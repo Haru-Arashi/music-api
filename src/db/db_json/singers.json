@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "600ba87dd3ec1b21c49836e2"
+  },
+  "name": "周杰伦",
+  "cover": "https://star.kuwo.cn/star/starheads/300/10/6/294045140.jpg",
+  "listId": "600ba083e99b8f3a68be406f",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba8f22d1f102848e1b495"
+  },
+  "name": "花僮",
+  "cover": "https://img1.kuwo.cn/star/starheads/300/36/51/2342245088.jpg",
+  "listId": "600ba370adb6e505c0aade0a",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba91c9ecfe1124438f200"
+  },
+  "name": "海来阿木",
+  "cover": "https://img1.kuwo.cn/star/starheads/300/96/27/3283112970.jpg",
+  "listId": "600ba438e6cf472adcc73138",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba942f3db4f06c00291a9"
+  },
+  "name": "王琪",
+  "cover": "https://img4.kuwo.cn/star/starheads/300/53/26/3055490646.jpg",
+  "listId": "600ba4fce20f8123906ccd41",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba96184cd5b2c7ca373de"
+  },
+  "name": "海伦",
+  "cover": "https://img3.kuwo.cn/star/starheads/300/95/67/1625200311.jpg",
+  "listId": "600ba592a3f31f225025c4c3",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba9851e26d90b0cb8555d"
+  },
+  "name": "张学友",
+  "cover": "https://img1.kuwo.cn/star/starheads/300/44/49/2029497292.jpg",
+  "listId": "600ba6442dbc2e19e4c217a3",
+  "__v": 0
+}]

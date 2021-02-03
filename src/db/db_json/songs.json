@@ -1,0 +1,319 @@
+[{
+  "_id": {
+    "$oid": "600b9f165e4ce331b47bc11e"
+  },
+  "title": "╰╮╭╯『你确定你不抖腿』？",
+  "cover": "https://img1.kuwo.cn/star/userpl2015/45/17/1520064177434_413292545_700.jpg",
+  "introduction": "不需要听声辨位，戴上耳机，战歌走起，瓜皮走位",
+  "author": {
+    "name": "氢",
+    "avatar": "https://img4.kuwo.cn/star/userhead/45/17/1549285820609_413292545.jpg"
+  },
+  "music": [
+    {
+      "_id": {
+        "$oid": "600b7da1a4daf53b441b4121"
+      },
+      "name": "Secrets",
+      "singer": "Tiesto&KSHMR&Vassy",
+      "length": "04:10",
+      "link": "http://www.kuwo.cn/play_detail/6449376"
+    },
+    {
+      "_id": {
+        "$oid": "600b7da1a4daf53b441b4122"
+      },
+      "name": "Wicked Wonderland",
+      "singer": "TUNGEVAAG",
+      "length": "03:37",
+      "link": "http://www.kuwo.cn/play_detail/6893747"
+    }
+  ],
+  "__v": 0,
+  "classfy": "歌单"
+},{
+  "_id": {
+    "$oid": "600b7e5281da533a1c790157"
+  },
+  "title": "世人可怜悯过我吗？",
+  "cover": "https://img1.kuwo.cn/star/userpl2015/6/10/1545754072488_269448706_700.jpg",
+  "introduction": "♡一腔爱恨，一场悲欢，一卷青史，一身风尘与沧桑。 n♡倾国倾城又如何？最终不过为人作嫁。 n♡但知前世今生石上刻，佳缘若梦又有几人得。 n♡我若在你心上，斯冥战马有怎样。你若在我心上，情敌三千又何妨。 n♡血染江山的画，怎敌你眉间一点朱砂。覆了天下也罢，始终不过一场繁华。 n♡醉眼，泪点伊人颜。心字犹缺，情缘搁浅，一生离散，我却始终落不下那一笔，终是把思念留在那似水年间。 n♡落絮无声春坠泪，行云有影月含羞萧萧黄叶闭疏窗，沉思往事立残阳。 n♡终是谁使弦断，花落肩头，恍惚迷离从别以后，几回梦缥缈，执手若无，泪溅花上落霞亦缄言，孤鹜亦无语，雕阑曲处，四望意茫茫。 n♡逆天，尚有例外。逆吾，绝无生机。",
+  "author": {
+    "name": "染染",
+    "avatar": "https://img3.kuwo.cn/star/userhead/6/10/1543568586122_269448706.jpg"
+  },
+  "music": [
+    {
+      "_id": {
+        "$oid": "600b7e5281da533a1c790158"
+      },
+      "name": "承欢殿",
+      "singer": "少司命",
+      "length": "04:16",
+      "link": "http://www.kuwo.cn/play_detail/6404026"
+    },
+    {
+      "_id": {
+        "$oid": "600b7e5281da533a1c790159"
+      },
+      "name": "你还要我怎样",
+      "singer": "薛之谦",
+      "length": "05:10",
+      "link": "http://www.kuwo.cn/play_detail/3620537"
+    }
+  ],
+  "__v": 0,
+  "classfy": "歌单"
+},{
+  "_id": {
+    "$oid": "600b7f613841a50a64c51235"
+  },
+  "title": "【兰草】远离城市的喧嚣悠然自得",
+  "cover": "https://star.kuwo.cn/star/userpl2015/59/12/1508323988924_412924359_700.jpg",
+  "introduction": "静享一片蓝天白云",
+  "author": {
+    "name": "尼古拉斯鸠摩智",
+    "avatar": "https://h5static.kuwo.cn/upload/image/4f768883f75b17a426c95b93692d98bec7d3ee9240f77f5ea68fc63870fdb050.png"
+  },
+  "music": [
+    {
+      "_id": {
+        "$oid": "600b7f613841a50a64c51236"
+      },
+      "name": "Merle’s Boogie Woogie",
+      "singer": "Merle Travis",
+      "length": "03:32",
+      "link": "http://www.kuwo.cn/play_detail/9232439"
+    },
+    {
+      "_id": {
+        "$oid": "600b7f613841a50a64c51237"
+      },
+      "name": "Rum And Coca Cola",
+      "singer": "The Andrews Sisters",
+      "length": "03:00",
+      "link": "http://www.kuwo.cn/play_detail/15630604"
+    }
+  ],
+  "__v": 0,
+  "classfy": "歌单"
+},{
+  "_id": {
+    "$oid": "600b83052e185a04640a5d7d"
+  },
+  "title": "最适合清晨和闲暇时候听的歌",
+  "cover": "https://img1.kuwo.cn/star/userpl2015/6/93/1489181349076_373763406_700.jpg",
+  "introduction": "推荐将本单用于清晨或闲暇之余哦，尽管每首风格不一，但质量却有绝对的保证哦，所以还是请根据个人口味自取所好啦",
+  "author": {
+    "name": "不高兴",
+    "avatar": "https://img2.kuwo.cn/star/userhead/69/89/1463747092997_224514269.jpg"
+  },
+  "music": [
+    {
+      "_id": {
+        "$oid": "600b83052e185a04640a5d7e"
+      },
+      "name": "Best Day Of My Life",
+      "singer": "American Authors",
+      "length": "03:14",
+      "link": "http://www.kuwo.cn/play_detail/3462940"
+    },
+    {
+      "_id": {
+        "$oid": "600b83052e185a04640a5d7f"
+      },
+      "name": "Oops",
+      "singer": "Little Mix&Charlie Puth",
+      "length": "03:24",
+      "link": "http://www.kuwo.cn/play_detail/15205618"
+    }
+  ],
+  "__v": 0,
+  "classfy": "歌单"
+},{
+  "_id": {
+    "$oid": "600ba083e99b8f3a68be406f"
+  },
+  "title": "周杰伦",
+  "cover": "https://star.kuwo.cn/star/starheads/300/10/6/294045140.jpg",
+  "introduction": "周杰伦（Jay Chou），1979年1月18日出生于台湾省新北市，中国台湾流行乐男歌手、音乐人、演员、导演、编剧、监制、商人。",
+  "music": [
+    {
+      "_id": {
+        "$oid": "600ba083e99b8f3a68be4070"
+      },
+      "name": "告白气球",
+      "cover": "https://img2.kuwo.cn/star/albumcover/120/64/39/3540704654.jpg",
+      "length": "03:35",
+      "link": "http://www.kuwo.cn/play_detail/7149583",
+      "album": "周杰伦的床边故事"
+    },
+    {
+      "_id": {
+        "$oid": "600ba083e99b8f3a68be4071"
+      },
+      "name": "青花瓷",
+      "cover": "https://img2.kuwo.cn/star/albumcover/120/36/9/13515874.jpg",
+      "length": "03:57",
+      "link": "http://www.kuwo.cn/play_detail/324244",
+      "album": "我很忙"
+    }
+  ],
+  "__v": 0,
+  "classfy": "歌手"
+},{
+  "_id": {
+    "$oid": "600ba370adb6e505c0aade0a"
+  },
+  "title": "花僮",
+  "classfy": "歌手",
+  "cover": "https://star.kuwo.cn/star/starheads/300/36/51/2342245088.jpg",
+  "introduction": "花僮，出生于中国云南省昆明市，中国内地女歌手",
+  "music": [
+    {
+      "_id": {
+        "$oid": "600ba370adb6e505c0aade0b"
+      },
+      "name": "浪子闲话",
+      "cover": "https://img2.kuwo.cn/star/albumcover/120/70/26/1416258977.jpg",
+      "length": "03:32",
+      "link": "http://www.kuwo.cn/play_detail/155255069",
+      "album": "浪子闲话"
+    },
+    {
+      "_id": {
+        "$oid": "600ba370adb6e505c0aade0c"
+      },
+      "name": "笑纳",
+      "cover": "https://img2.kuwo.cn/star/albumcover/120/12/41/1244965736.jpg",
+      "length": "04:32",
+      "link": "http://www.kuwo.cn/play_detail/148370024",
+      "album": "笑纳"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba438e6cf472adcc73138"
+  },
+  "title": "海来阿木",
+  "classfy": "歌手",
+  "cover": "https://star.kuwo.cn/star/starheads/300/96/27/3283112970.jpg",
+  "introduction": "海来阿木，男，彝族，4月4日出生于四川省凉山州甘洛县。中国内地男歌手",
+  "music": [
+    {
+      "_id": {
+        "$oid": "600ba438e6cf472adcc73139"
+      },
+      "name": "不过人间",
+      "cover": "https://img4.kuwo.cn/star/albumcover/120/17/10/488226798.jpg",
+      "length": "04:20",
+      "link": "http://www.kuwo.cn/play_detail/150011124",
+      "album": "不过人间"
+    },
+    {
+      "_id": {
+        "$oid": "600ba438e6cf472adcc7313a"
+      },
+      "name": "你的万水千山",
+      "cover": "https://img4.kuwo.cn/star/albumcover/120/57/98/2130468645.jpg",
+      "length": "04:32",
+      "link": "http://www.kuwo.cn/play_detail/140935285",
+      "album": "你的万水千山"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba4fce20f8123906ccd41"
+  },
+  "title": "王琪",
+  "classfy": "歌手",
+  "cover": "https://star.kuwo.cn/star/starheads/300/53/26/3055490646.jpg",
+  "introduction": "王琪，华语男歌手。2017年8月，发行单曲《情人迷》。2019年4月，发行单曲《万爱千恩》。2020年5月8日，发行单曲《可可托海的牧羊人》；6月22日发行单曲《迎亲》。8月5日，发行单曲《何日是归途》。",
+  "music": [
+    {
+      "_id": {
+        "$oid": "600ba4fce20f8123906ccd42"
+      },
+      "name": "可可托海的牧羊人",
+      "cover": "https://img3.kuwo.cn/star/albumcover/120/67/16/476357690.jpg",
+      "length": "05:40",
+      "link": "http://www.kuwo.cn/play_detail/98172723",
+      "album": "可可托海的牧羊人"
+    },
+    {
+      "_id": {
+        "$oid": "600ba4fce20f8123906ccd43"
+      },
+      "name": "送亲",
+      "cover": "https://img3.kuwo.cn/star/albumcover/120/17/7/2357153858.jpg",
+      "length": "04:32",
+      "link": "http://www.kuwo.cn/play_detail/78712269",
+      "album": "送亲"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba592a3f31f225025c4c3"
+  },
+  "title": "海伦",
+  "classfy": "歌手",
+  "cover": "https://star.kuwo.cn/star/starheads/300/95/67/1625200311.jpg",
+  "introduction": "海伦，本名崔钉铜，出生于吉林省长春市，中国内地流行乐男歌手。2019年，推出单曲《桥边姑娘》，并因此受到关注；同年，签约TM娱乐，从而正式出道；之后，发布单曲《她很孤独》。2020年6月2日发行《游山恋》。",
+  "music": [
+    {
+      "_id": {
+        "$oid": "600ba592a3f31f225025c4c4"
+      },
+      "name": "游山恋",
+      "cover": "https://img4.kuwo.cn/star/albumcover/120/73/91/1572221806.jpg",
+      "length": "03:43",
+      "link": "http://www.kuwo.cn/play_detail/141494937",
+      "album": "游山恋"
+    },
+    {
+      "_id": {
+        "$oid": "600ba592a3f31f225025c4c5"
+      },
+      "name": "桥边姑娘",
+      "cover": "https://img2.kuwo.cn/star/albumcover/120/48/79/1272165134.jpg",
+      "length": "04:32",
+      "link": "http://www.kuwo.cn/play_detail/81010978",
+      "album": "桥边姑娘"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ba6442dbc2e19e4c217a3"
+  },
+  "title": "张学友",
+  "classfy": "歌手",
+  "cover": "https://star.kuwo.cn/star/starheads/300/44/49/2029497292.jpg",
+  "introduction": "张学友（Jacky Cheung），1961年7月10日出生于中国香港，祖籍天津市，中国香港男歌手、演员，毕业于香港崇文英文书院。",
+  "music": [
+    {
+      "_id": {
+        "$oid": "600ba6442dbc2e19e4c217a4"
+      },
+      "name": "吻别",
+      "cover": "https://img4.kuwo.cn/star/albumcover/120/96/53/610609249.jpg",
+      "length": "05:03",
+      "link": "http://www.kuwo.cn/play_detail/157908",
+      "album": "吻别"
+    },
+    {
+      "_id": {
+        "$oid": "600ba6442dbc2e19e4c217a5"
+      },
+      "name": "最爱",
+      "cover": "https://img1.kuwo.cn/star/starheads/120/44/49/2029497292.jpg",
+      "length": "01:12",
+      "link": "http://www.kuwo.cn/play_detail/160651906",
+      "album": ""
+    }
+  ],
+  "__v": 0
+}]

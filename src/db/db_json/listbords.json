@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "600bc97b3e9271384c6a2924"
+  },
+  "title": "夜夜夜漫长",
+  "singer": "DJ小鱼儿",
+  "music": "https://www.kugou.com/song/1iznxef7.html",
+  "classfy": "热门",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bc97b3e9271384c6a2925"
+  },
+  "title": "错位时空",
+  "singer": "闻音来过",
+  "music": "https://www.kugou.com/song/1ikp7k54.html",
+  "classfy": "热门",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bc97b3e9271384c6a2926"
+  },
+  "title": "遗憾",
+  "singer": "王佳杨",
+  "music": "https://www.kugou.com/song/yp9nc64.html",
+  "classfy": "热门",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bc97b3e9271384c6a2927"
+  },
+  "title": "Ngây Thơ",
+  "singer": "Tăng Duy Tân、Phong Max",
+  "music": "https://www.kugou.com/song/1h20b7d8.html",
+  "classfy": "热门",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bc97b3e9271384c6a2928"
+  },
+  "title": " 太傻 (Live)",
+  "singer": "金志文",
+  "music": "https://www.kugou.com/song/dwi2x45.html",
+  "classfy": "热门",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bca33949986436809899d"
+  },
+  "title": "白月光与朱砂痣",
+  "singer": "大籽",
+  "music": "https://www.kugou.com/song/1hy4t82e.html",
+  "classfy": "飙升",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bca33949986436809899e"
+  },
+  "title": "千千万万",
+  "singer": "深海鱼子酱",
+  "music": "https://www.kugou.com/song/1i9spx4f.html",
+  "classfy": "飙升",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bca33949986436809899f"
+  },
+  "title": "简单的幸福",
+  "singer": "罗聪",
+  "music": "https://www.kugou.com/song/lheki2a.html",
+  "classfy": "飙升",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bca3394998643680989a0"
+  },
+  "title": "四季予你",
+  "singer": "程响",
+  "music": "https://www.kugou.com/song/1he6alc1.html",
+  "classfy": "飙升",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bca3394998643680989a1"
+  },
+  "title": "踏山河",
+  "singer": "是七叔呢",
+  "music": "https://www.kugou.com/song/1fnp4v99.html",
+  "classfy": "飙升",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bcac772f33a3f844733e2"
+  },
+  "title": "风疯少年",
+  "singer": "白小白",
+  "music": "https://www.kugou.com/song/1izdg711.html",
+  "classfy": "最新",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bcac772f33a3f844733e3"
+  },
+  "title": "男人的眼泪 (烟嗓版)",
+  "singer": "苏谭谭",
+  "music": "https://www.kugou.com/song/1j20ficf.html",
+  "classfy": "最新",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bcac772f33a3f844733e4"
+  },
+  "title": "烟雨楼",
+  "singer": "洛天依",
+  "music": "https://www.kugou.com/song/1ixgw716.html",
+  "classfy": "最新",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bcac772f33a3f844733e5"
+  },
+  "title": "你像是一阵爱情的风",
+  "singer": "韩小欠",
+  "music": "https://www.kugou.com/song/1iszzkcd.html",
+  "classfy": "最新",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600bcac772f33a3f844733e6"
+  },
+  "title": "东北风",
+  "singer": "乌兰图雅",
+  "music": "https://www.kugou.com/song/1ixazod3.html",
+  "classfy": "最新",
+  "__v": 0
+}]
